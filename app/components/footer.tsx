@@ -9,9 +9,19 @@ export default function Footer() {
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/sliitsesc">
+            href="https://github.com/AathifZahir">
             <ArrowUpRight size={24} />
             <p className="ml-2 h-7">Github</p>
+          </a>
+        </li>
+        <li>
+          <a
+            className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+            rel="noopener noreferrer"
+            target="_blank"
+            href="https://linkedin.com/in/aathifzahir">
+            <ArrowUpRight size={24} />
+            <p className="ml-2 h-7">LinkedIn</p>
           </a>
         </li>
       </ul>
